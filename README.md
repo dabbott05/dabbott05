@@ -1,6 +1,6 @@
 # Daniel | Computer Science Major at Samford University
 
-I'm a dedicated Computer Science student at **Samford University**, with a strong interest on **cybersecurity** and **machine learning**.
+I'm a dedicated Computer Science student at **Samford University**, with a strong interest on **cybersecurity**.
 
 ### Interests:
 - **Cybersecurity**: Understanding and applying techniques to secure networks, applications, and data.
@@ -13,3 +13,6 @@ I'm a dedicated Computer Science student at **Samford University**, with a stron
 ### Skills:
 - **Programming Languages**: Python, Java, JS
 - **Tools and Frameworks**: TensorFlow, OpenCV, Numpy
+
+### Notes:
+- I need to update github profile
