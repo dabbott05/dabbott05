@@ -11,5 +11,4 @@ I'm a dedicated Computer Science student at **Samford University**, with a stron
 
 ### Skills:
 - **Programming Languages**: Python, Java, 
-- **Tools and Frameworks**: opencv, numpy, pillow
 
